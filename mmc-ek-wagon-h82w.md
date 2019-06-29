@@ -8,9 +8,9 @@
 | spark plug | MD362097<br/>MD362098<br/>MD358200<br/>MD358202 | NGK ZFR5F11, ZFR5J11<br/>DENSO KJ16CRL11, KJ16CRL114, K16TT4, KJ16CRU11 |
 | power steering belt | MR988922 | Rib-Top 4PK1540<br/>Gates 4PK1540 |
 | power steering belt pulley | MD302024 | KOYO PU279020DRR1HY |
-| front break pads | 4605A592 | G-brake GP06103 |
-| rear break pads | 4600A150 | Kashiyama K6726 |
-| front break disk | 4615A090 | G-brake GR-01806 |
+| front brake pads | 4605A592 | G-brake GP06103 |
+| rear brake pads | 4600A150 | Kashiyama K6726 |
+| front brake disk | 4615A090 | G-brake GR-01806 |
 | valve cover gasket | MD161783 |  |
 | spark plug seal | MD198128 |  |
 | cabin filter | 7803A012 | MASUMA MC427<br/>VIC AC304E |
