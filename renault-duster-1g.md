@@ -11,7 +11,6 @@
 | power steering belt tensioner | 11 75 072 71R |  |
 | front brake pads | 41 06 084 81R | NiBK PN9805<br/>G-brake GP-09050 |
 | rear brake pads | 44 06 052 38R<br/>44 06 074 93R | NiBK FN0673 |
-| front brake disk | 4615A090 | G-brake GR-01806 |
 | cabin filter | 82 01 153 808<br/>27 27 721 32R | Francecar FCR210486<br/>Невский фильтр NF-6349C |
 | thermostat with gasket | 82 00 772 985 |  |
 
