@@ -8,7 +8,7 @@
 | engine oil drain bolt gasket | 11 02 655 05R |  |
 | spark plug | 77 00 500 155 | 77 00 500 168 (double tip) |
 | power steering belt | 11 72 051 91R | Gates 6PK1203 |
-| power steering belt pulley | 11 75 072 71R |  |
+| power steering belt tensioner | 11 75 072 71R |  |
 | front brake pads | 41 06 084 81R | NiBK PN9805<br/>G-brake GP-09050 |
 | rear brake pads | 44 06 052 38R<br/>44 06 074 93R | NiBK FN0673 |
 | front brake disk | 4615A090 | G-brake GR-01806 |
